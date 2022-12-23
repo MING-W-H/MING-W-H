@@ -35,8 +35,8 @@ canvas {
 
 .AudioButton{
     border-radius: 100%;
-    height: 5.5%;
-    width: 13%;
+    height: 3.5%;
+    width: 10%;
     margin: 3% 3% 2% auto;
     background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);
 }
